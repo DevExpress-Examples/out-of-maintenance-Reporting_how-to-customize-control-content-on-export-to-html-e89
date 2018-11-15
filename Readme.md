@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/XRControl_HtmlItemCreated/Form1.cs) (VB: [Form1.vb](./VB/XRControl_HtmlItemCreated/Form1.vb))
+* **[XtraReport1.cs](./CS/XRControl_HtmlItemCreated/XtraReport1.cs) (VB: [XtraReport1.vb](./VB/XRControl_HtmlItemCreated/XtraReport1.vb))**
+<!-- default file list end -->
 # How to customize control content on export to HTML 
 
 
